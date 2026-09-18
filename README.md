@@ -67,6 +67,13 @@ npm run docs:build
 npm run docs:preview
 ```
 
+Windows 用户还可以直接使用仓库根目录的两个一键脚本：
+
+- `start-workbuddy.bat`：启动本地开发服务器。
+- `update-workbuddy.bat`：拉取最新代码、更新依赖并重启本地服务。
+
+双击即可运行，无需手动输入命令。
+
 ## 参与共创
 
 我们优先收集真实、可复现的 WorkBuddy 使用案例。提交 Case 前，请先搜索[社区案例集](https://workbuddy.homes/cases/)和[蓝皮书目录](https://workbuddy.homes/bluebook/)，确认场景或任务没有重复。若目标相同但使用了不同的 Skill、方法或交付形式，请在 PR 中说明差异。
